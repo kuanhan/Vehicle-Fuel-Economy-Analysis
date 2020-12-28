@@ -1,15 +1,18 @@
 # Vehicle-Fuel-Economy-Analysis
 # Table of contents :
-    1.  Know Data Attributes
-    2.  Ask Questions
-    3.  Assessing Data
-    4.  Clean Column Labels
-    5.  Filter, Drop Nulls, Dedupe
-    6.  Inspect Data Types
-    7.  Fixing Data Types
-    8.  Exploring with Visuals
-    9.  Merge Datasets
-    10. Results with Merged Datasets
+1.  Know Data Attributes
+2.  Ask Questions
+3.  Data Assessment
+4.  Data Preprocessing and Cleansing :
+        1. Drop Extraneous Columns
+        2. Rename columns
+        3. Filter
+        4. Drop Null value
+        5. Drop duplicates
+        6. Fix data types
+5.  Explore Data with visualizations
+6.  Conclusions and Visualizations
+7.  Answers to the questions
 
 # What is Fuel Economy ?
 Excerpt from Wikipedia page on Fuel Economy in Automobiles: The fuel economy of an automobile is the fuel efficiency relationship between the distance traveled and the amount of fuel consumed by the vehicle. Consumption can be expressed in terms of volume of fuel to travel a distance, or the distance travelled per unit volume of fuel consumed.
