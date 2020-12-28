@@ -3,13 +3,13 @@
 1.  Know Data Attributes
 2.  Ask Questions
 3.  Data Assessment
-4.  Data Preprocessing and Cleansing :
-        1. Drop Extraneous Columns
-        2. Rename columns
-        3. Filter
-        4. Drop Null value
-        5. Drop duplicates
-        6. Fix data types
+4.  Data Preprocessing and Cleansing : \
+        1. Drop Extraneous Columns \
+        2. Rename columns \
+        3. Filter \
+        4. Drop Null value \
+        5. Drop duplicates \
+        6. Fix data types \
 5.  Explore Data with visualizations
 6.  Conclusions and Visualizations
 7.  Answers to the questions
