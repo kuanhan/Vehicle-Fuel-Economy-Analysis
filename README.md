@@ -22,8 +22,8 @@ DOE Fuel Economy Data : https://www.fueleconomy.gov/feg/download.shtml/
 
 # Attribute Description :
     
-Model Vehicle make and model
-Displ Engine displacement - the size of an engine in liters
+Model Vehicle make and model \
+Displ Engine displacement - the size of an engine in liters \
 Cyl The number of cylinders in a particular engine
 Trans Transmission Type and Number of Gears
 Drive Drive axle type (2WD = 2-wheel drive, 4WD = 4-wheel/all-wheel drive)
